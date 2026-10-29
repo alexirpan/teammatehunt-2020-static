@@ -1,0 +1,3 @@
+# Repo tooling; keep out of the deployed site
+scripts/
+clean.sh
